@@ -29,5 +29,4 @@ npm install
 
 npm start
 ```
-# cmpress
-# optimizerr
+
