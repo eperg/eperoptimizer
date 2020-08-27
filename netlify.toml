@@ -1,7 +1,6 @@
 [build]
   command = "npm run build"
   publish="build"
-  commandOrigin: config
-  functions: /opt/build/repo/functions
+  commandOrigin: "config"
   functions = "functions"
-  publish: /opt/build/repo/build
+ 
